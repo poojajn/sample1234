@@ -5,6 +5,7 @@ private int id;
 private String name;  
 private String city;  
 private String sal;
+private String location;
  
 public int getId() {  
    return id;  
