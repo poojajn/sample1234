@@ -6,6 +6,7 @@ private String name;
 private String city;  
 private String sal;
 private String location;
+//edfdsf
  
 public int getId() {  
    return id;  
